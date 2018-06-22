@@ -1,8 +1,5 @@
 sfg
 add something new
 add one more thing
-<<<<<<< HEAD
 pi version
-=======
 windows version
->>>>>>> f1f1764b1de9ad5a44169eb30d3d433bfbb44b58
